@@ -13,7 +13,6 @@ The following companies offer development services and consulting for sites wish
 * [Carto](https://carto.com/), US
 * [Geofabrik](https://www.geofabrik.de/), Germany
 * [GreenInfo Network](https://www.greeninfo.org/), US (public interest groups only)
-* [ITO!](https://www.itoworld.com/), UK
 * [Mapbox](https://www.mapbox.com/), US
 * [MapTiler](https://www.maptiler.com/), Switzerland
 * [Makina Corpus](https://makina-corpus.com/), France
